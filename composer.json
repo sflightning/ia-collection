@@ -19,7 +19,7 @@
         }
     ],
     "require": {
-        "php": ">=8.0",
+        "php": ">=7.0 || ^8.0",
         "nesbot/carbon": "^1.26 || ^2.00",
         "ramsey/uuid": "^4.0",
         "symfony/var-dumper": "^6.0",
